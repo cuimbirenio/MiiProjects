@@ -1,0 +1,32 @@
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.exe
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.deps.json
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.runtimeconfig.json
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.dll
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.pdb
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.Form1.resources
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.csproj.GenerateResource.cache
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.AssemblyInfoInputs.cache
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.AssemblyInfo.cs
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.csproj.CoreCompileInputs.cache
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.dll
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\refint\HangmanGameEduvos2024.dll
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.pdb
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.genruntimeconfig.cache
+C:\Users\cuimb\source\repos\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\ref\HangmanGameEduvos2024.dll
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.exe
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.deps.json
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.runtimeconfig.json
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.dll
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\bin\Debug\net8.0-windows\HangmanGameEduvos2024.pdb
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.Form1.resources
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.csproj.GenerateResource.cache
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.AssemblyInfoInputs.cache
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.AssemblyInfo.cs
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.csproj.CoreCompileInputs.cache
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.dll
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\refint\HangmanGameEduvos2024.dll
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.pdb
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\HangmanGameEduvos2024.genruntimeconfig.cache
+C:\Users\cuimb\Documents\Eduvos(Projects)\Basic C#\HangmanGameEduvos2024\HangmanGameEduvos2024\obj\Debug\net8.0-windows\ref\HangmanGameEduvos2024.dll
